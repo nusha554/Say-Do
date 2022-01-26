@@ -1,0 +1,20 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "crud api",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Nana Mor",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.2",
+    "mongoose-sequence": "^5.3.1",
+    "mongose": "^0.0.2-security",
+    "nodemon": "^2.0.15"
+  }
+}
