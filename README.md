@@ -35,6 +35,7 @@ Addional Features:
 Will be added soon:
 
 
+
 1. Pictures on Tasks – Photo is a great way to add a task to your list.
 2. Sync with your smartphone to always have an access to your daily tasks.
 
