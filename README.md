@@ -1,6 +1,6 @@
-# Say-and-Do
+# Say-and-Do Overview
 
-Voice controlled ToDo List.
+Voice controlled ToDo List, built using MERN stack.
 
 Your basic ToDo List web appliccation with voice control that acctually saves you time.
 
